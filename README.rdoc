@@ -1,6 +1,6 @@
 == About
 
-This is the gem to install for the supported version of sunspot_rails on websolr. 
+This is the gem to install for the supported version of sunspot_rails on websolr. This gem provide an overlay between websolr and sunspot-solr so that on the heroku we can easily used SOLR search engine.
 
 == Installation
 
